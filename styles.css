@@ -40,7 +40,7 @@ body {
     display: flex;
 }
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("temp photo of self.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("temp-photo-of-self.png");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
